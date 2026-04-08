@@ -58,4 +58,4 @@ Desenvolvimento de assistentes inteligentes e automação de atendimento.
 ---
 
 **📫 Vamos nos conectar:**
-[Seu LinkedIn](https://www.linkedin.com/in/gabriel-correa-souza-763135271/) | [Seu E-mail](mailto:gabrielcorreasouza46@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-correa-souza-763135271/) | [E-mail](mailto:gabrielcorreasouza46@gmail.com)
