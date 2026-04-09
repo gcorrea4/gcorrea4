@@ -57,7 +57,7 @@ Desenvolvimento de assistentes inteligentes e automação de atendimento.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcorrea4&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gcorrea4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gcorrea4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
