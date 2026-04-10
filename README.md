@@ -4,7 +4,7 @@ Desenvolvedor focado em criar interfaces modernas e soluções inteligentes com 
 
 ---
 
-### 🚀 Principais Especialidades
+###  Principais Especialidades
 
 #### **Front-End Development**
 Criação de interfaces performáticas, responsivas e componentes reutilizáveis.
@@ -20,7 +20,7 @@ Desenvolvimento de assistentes inteligentes e automação de atendimento.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 #### **Front-End**
 <div align="left">
@@ -52,7 +52,7 @@ Desenvolvimento de assistentes inteligentes e automação de atendimento.
 
 ---
 
-### 📊 Estatísticas e Atividade
+###  Estatísticas e Atividade
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcorrea4&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -62,12 +62,12 @@ Desenvolvimento de assistentes inteligentes e automação de atendimento.
 
 ---
 
-### 🎓 Certificações em Destaque
+###  Certificações em Destaque
 - **Programação Web** (FIAP)
 - **Java Fundamentos** (FIAP)
 - **Git e GitHub** (Alura)
 
 ---
 
-**📫 Vamos nos conectar:**
+** Contato:**
 [LinkedIn](https://www.linkedin.com/in/gabriel-correa-souza-763135271/) | [E-mail](mailto:gabrielcorreasouza46@gmail.com)
