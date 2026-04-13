@@ -1,15 +1,12 @@
 <div align="center">
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Gabriel%20Correa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Front-End%20Developer%20%7C%20AI%20%26%20Chatbot%20Specialist&descAlignY=60&descSize=17&descColor=60a5fa"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Gabriel%20Correa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Chatbot%20Specialist&descAlignY=60&descSize=17&descColor=60a5fa"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Front-End+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Tailwind+CSS;AI+%26+Chatbots+com+Gemini+%26+IBM+Watson;Engenharia+de+Software+%E2%80%94+FIAP+%F0%9F%8E%93;Construindo+interfaces+que+encantam+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Tailwind+CSS;AI+%26+Chatbots+com+Gemini+%26+IBM+Watson;Engenharia+de+Software+%E2%80%94+FIAP+%F0%9F%8E%93;Construindo+interfaces+que+encantam+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
-
 
 <img src="https://komarev.com/ghpvc/?username=gcorrea4&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
@@ -32,7 +29,7 @@
 ```typescript
 const gabriel = {
   nome:          "Gabriel Correa de Souza",
-  foco:          ["Front-End Development", "AI & Chatbots"],
+  foco:          ["Full Stack Development", "AI & Chatbots"],
   stack:         ["React", "TypeScript", "Tailwind CSS", "Vite", "Node.js"],
   IA:            ["Google Gemini", "IBM Watson Assistant", "Node-RED"],
   certificações: ["Engenharia de Software — FIAP 🎓", "Java Fundamentos — FIAP", "Git & GitHub — Alura"],
@@ -46,7 +43,7 @@ const gabriel = {
 
 <div align="center">
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <br/>
 
@@ -69,7 +66,6 @@ const gabriel = {
 </a>
 
 <br/>
-
 
 <img src="https://img.shields.io/badge/IBM_Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=black" />
 &nbsp;
@@ -115,20 +111,16 @@ const gabriel = {
 
 <div align="center">
 
-## 🔥 Projetos em Destaque
+##  Projetos em Destaque
 
 <br/>
 
-
-
-<a href="https://github.com/gcorrea4](https://github.com/gcorrea4/skillup-ai-orchestrator">
+<a href="https://github.com/gcorrea4/skillup-ai-orchestrator">
   <img src="https://img.shields.io/badge/Chatbot%20com%20Gemini%20API-0d1117?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/IA%20Multimodal%20%7C%20STT%2FTTS-1d4ed8?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
-
-
 
 <a href="https://github.com/gcorrea4">
   <img src="https://img.shields.io/badge/Front--End%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=0d1117" />
@@ -145,19 +137,23 @@ const gabriel = {
 
 <div align="center">
 
-##  Certificações em Destaque
+## Certificações em Destaque
 
 <br/>
 
-<img src="https://img.shields.io/badge/Engenharia%20de%20Software-FIAP-red?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-FIAP-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Programação%20Web-FIAP-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Java%20Fundamentos-FIAP-red?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java%20Fundamentos-FIAP-red?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Alura-00CFFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/IBM%20Watson%20Nota%2010.0-FIAP-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=black&labelColor=0d1117" />
 
+</div>
 
 ---
 
@@ -182,6 +178,5 @@ const gabriel = {
 </div>
 
 <br/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1b2a,100:0a0a0f&height=120&section=footer&animation=twinkling"/>
