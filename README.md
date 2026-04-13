@@ -122,7 +122,7 @@ const gabriel = {
 
 <br/><br/>
 
-<a href="https://github.com/gcorrea4">
+<a href="https://github.com/gcorrea4](https://github.com/gcorrea4?tab=repositories">
   <img src="https://img.shields.io/badge/Front--End%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/React%20%7C%20Vite%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" />
 </a>
