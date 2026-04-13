@@ -151,7 +151,7 @@ const gabriel = {
 
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Alura-00CFFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/IBM%20Watson%20Nota%2010.0-FIAP-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=black&labelColor=0d1117" />
+
 
 </div>
 
