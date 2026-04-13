@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Gabriel%20Correa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Chatbot%20Specialist&descAlignY=60&descSize=17&descColor=60a5fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Gabriel%20Correa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Chatbot%20Specialist&descAlignY=60&descSize=17&descColor=60a5fa"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Tailwind+CSS;AI+%26+Chatbots+com+Gemini+%26+IBM+Watson;Engenharia+de+Software+%E2%80%94+FIAP+%F0%9F%8E%93;Construindo+interfaces+que+encantam+%E2%9C%A8" alt="Typing SVG" />
@@ -35,7 +35,7 @@ const gabriel = {
   certificações: ["Engenharia de Software — FIAP 🎓", "Java Fundamentos — FIAP", "Git & GitHub — Alura"],
   diferenciais:  ["Multimodalidade (STT/TTS)", "Watson nota 10.0 — FIAP", "Integração com Telegram"],
   contato:       "gabrielcorreasouza46@gmail.com",
-  linkedin:      "linkedin.com/in/gabriel-correa-souza-763135271",
+  linkedin:      "[linkedin.com/in/gabriel-correa-souza-763135271](https://linkedin.com/in/gabriel-correa-souza-763135271)",
 };
 ```
 
