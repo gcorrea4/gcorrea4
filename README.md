@@ -119,23 +119,15 @@ const gabriel = {
 
 <br/>
 
-<!-- Adicione seus repos reais abaixo -->
 
 
-<a href="https://github.com/gcorrea4">
+<a href="https://github.com/gcorrea4](https://github.com/gcorrea4/skillup-ai-orchestrator">
   <img src="https://img.shields.io/badge/Chatbot%20com%20Gemini%20API-0d1117?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/IA%20Multimodal%20%7C%20STT%2FTTS-1d4ed8?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-
-<a href="https://github.com/gcorrea4">
-  <img src="https://img.shields.io/badge/IBM%20Watson%20Assistant-0d1117?style=for-the-badge&logo=github&logoColor=60a5fa&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Nota%2010.0%20FIAP%20%7C%20Node--RED-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=black&labelColor=0d1117" />
-</a>
-
-<br/><br/>
 
 
 <a href="https://github.com/gcorrea4">
@@ -165,11 +157,7 @@ const gabriel = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Alura-00CFFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/IBM%20Watson%20Nota%2010.0-FIAP-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=black&labelColor=0d1117" />
 
-</div>
 
 ---
 
