@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/github/followers/gcorrea4?style=for-the-badge&color=1d4ed8&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gabriel-correa-souza-763135271/">
-  <img src="https://img.shields.io/badge/LinkedIn-connect-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
+
 
 </div>
 
